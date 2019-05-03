@@ -1,11 +1,11 @@
 ################################################################################################################################################
-# Script Name: zabbix_xenial_bionic.sh
+# Script Name: zabbix_server_install.sh
 # Author: Eranachandran
 # Date : 30-04-2019
 # Description: The following script will install zabbix server
-# In machine already mysql installed, usage: sudo bash zabbix_xenial_bionic.sh --host_password --mysql_db_user_name --mysql_db_password  --zabbix_database_new_password 
-# In machine already mariadb installed, usage: sudo bash zabbix_xenial_bionic.sh --host_password --mariadb_db_user_name --maria_db_password  --zabbix_database_new_password 
-# In machine already mariadb or not mysql installed usage:sudo bash zabbix_xenial_bionic.sh --host_password --database_new_root_password  --zabbix_database_new_password 
+# In machine already mysql installed, usage: sudo bash zabbix_server_install.sh --host_password --mysql_db_user_name --mysql_db_password  --zabbix_database_new_password 
+# In machine already mariadb installed, usage: sudo bash zabbix_server_install.sh --host_password --mariadb_db_user_name --maria_db_password  --zabbix_database_new_password 
+# In machine already mariadb or not mysql installed usage:sudo bash zabbix_server_install.sh --host_password --database_new_root_password  --zabbix_database_new_password 
 ################################################################################################################################################
 #! /bin/bash
 
