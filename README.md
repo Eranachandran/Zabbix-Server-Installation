@@ -1,10 +1,14 @@
-# Zabbix-Server-Installation
+# 
 
-Bash Script to Install zabbix server and zabbix agent
+This repository contains Bash Script to Install and configure zabbix server and zabbix agent
 
-# Configuring Settings for the Zabbix Web Interface
+# Zabbix Server configuration and Configuring Settings for the Zabbix Web Interface
 
 After running zabbix_server_install.sh, the zabbix server will be installed. After the zabbix web interface configuration should be configured manually.
+
+# Zabbix agent installation
+
+After configuring zabbix server web interface run zabbix_agent_install.sh script to configure zabbix-agent 
 
 For Reference https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-zabbix-to-securely-monitor-remote-servers-on-ubuntu-16-04
 
