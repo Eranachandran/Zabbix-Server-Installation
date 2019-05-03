@@ -2,9 +2,8 @@
 
 This repository contains Bash Script to Install and configure zabbix server and zabbix agent
 
-# Zabbix Server configuration and Configuring Settings for the Zabbix Web Interface
-
-After running zabbix_server_install.sh, the zabbix server will be installed. After the zabbix web interface configuration should be configured manually.
+# Zabbix-server installation and Configuring Settings for the Zabbix Web Interface
+After running zabbix_server_install.sh, the zabbix agent will be installed. After the zabbix web interface configuration should be configured manually.
 
 # Zabbix agent installation
 
